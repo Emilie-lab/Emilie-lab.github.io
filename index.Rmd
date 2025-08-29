@@ -1,0 +1,52 @@
+---
+title: "Emilie Cheng"
+image: "emilie.jpg"
+links:
+  - label: '`r fontawesome::fa("linkedin", fill="#0A66C2")` LinkedIn'
+    url: "https://www.linkedin.com/in/yuhsuan-emilie-cheng/"
+  - label: '`r fontawesome::fa("github", fill="#08872B")` GitHub' 
+    url: "https://github.com/Emilie-lab"
+  - label: '`r fontawesome::fa("shapes", fill="#E88EA6")` Resume' 
+    url: "https://soundcloud.com/"
+  - label: '`r fontawesome::fa("square-envelope", fill="#0078d4")` Email' 
+    url: "mailto:ychen750@jh.edu"
+output:
+  postcards::trestles
+---
+
+## Bio
+
+Emilie Cheng is a second-year Master's student in Epidemiology at [Johns Hopkins Bloomberg School of Public Health](https://publichealth.jhu.edu/). Her academic background began in Veterinary Medicine (DVM) at [National Taiwan University](https://www.ntu.edu.tw/english/), and she is now expanding her expertise into clinical trials, pharmacoepidemiology, and pharmacovigilance.
+
+## Education
+
+**Johns Hopkins Bloomberg School of Public Health** \| Baltimore, MD
+
+M.S. in Epidemiology \| August 2024 - May 2026 (Expected)
+
+**National Taiwan University** \| Taipei, Taiwan
+
+D.V.M. \| August 2017 - May 2022
+
+## Experience
+
+**Elanco Animal Health** \| Global Pharmacovigilance Intern \| May 2025 - August 2025 [`r fontawesome::fa("linkedin", fill="#0A66C2")`](https://www.linkedin.com/posts/yuhsuan-emilie-cheng_elacno-pharmacovigilance-internship-activity-7361818948528431107-k8EP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4yHvQBce3kbanDYOE2r29cZt9rtl489s0)
+
+**Johns Hopkins University** \| Exam Proctor \| Oct 2024 - Present
+
+**Taiwan CDC** \| Technician \| Nov 2022 - Oct 2023
+
+**National Taiwan University** \| Undergrad Student Researcher\| Aug 2020 - June 2021
+
+**Academia Sinica, Taiwan** \| Research Intern \| July 2019 - Aug 2019
+
+## Skills
+
+R (Programming Language), SAS\
+Veterinary Medicine, Epidemiology, Statistics, Pharmacovigilance
+
+## Interests and Hobbies
+
+**Piano** \| Lifelong amateur player. [`r fontawesome::fa("youtube", fill="#FF0000")`](https://youtu.be/FrOA5rO3lbQ?si=9_Ubfb2VCh-n5Fn5)\
+**Baking** \| Recently start raising my sourdough starter\
+**Working out** \| Trying to maintain an every-other-day schedule
