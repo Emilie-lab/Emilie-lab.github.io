@@ -7,7 +7,7 @@ links:
   - label: '`r fontawesome::fa("github", fill="#08872B")` GitHub' 
     url: "https://github.com/Emilie-lab"
   - label: '`r fontawesome::fa("shapes", fill="#E88EA6")` Resume' 
-    url: "https://soundcloud.com/"
+    url: "https://drive.google.com/file/d/1mTfsrxtkc68rd4VI59_Pw-kZo1pF0td-/view?usp=sharing"
   - label: '`r fontawesome::fa("square-envelope", fill="#0078d4")` Email' 
     url: "mailto:ychen750@jh.edu"
 output:
@@ -47,6 +47,6 @@ Veterinary Medicine, Epidemiology, Statistics, Pharmacovigilance
 
 ## Interests and Hobbies
 
-**Piano** \| Lifelong amateur player. [`r fontawesome::fa("youtube", fill="#FF0000")`](https://youtu.be/FrOA5rO3lbQ?si=9_Ubfb2VCh-n5Fn5)\
+**Piano** \| Lifelong amateur player [`r fontawesome::fa("youtube", fill="#FF0000")`](https://youtu.be/FrOA5rO3lbQ?si=9_Ubfb2VCh-n5Fn5)\
 **Baking** \| Recently start raising my sourdough starter\
 **Working out** \| Trying to maintain an every-other-day schedule
