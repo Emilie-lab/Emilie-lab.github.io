@@ -28,6 +28,13 @@ M.S. in Epidemiology \| August 2024 - May 2026 (Expected)
 
 D.V.M. \| August 2017 - May 2022
 
+## Master's Thesis
+
+**Title: A Mixed-Methods Analysis of Factors Associated with Patient and Provider Use of a Digital Health Intervention**
+*Advisors: Dr. Sheriza (Primary) & Dr. Ann (Research Track Director)*
+
+My Master's thesis research is tied to the Social Needs App for Oncology Patients (SNAP-ON) Phase II project. The study utilizes a mixed-methods approach, triangulating patient-reported quantitative data with provider-reported clinical workflow realities. By simultaneously capturing the experiences of both oncology patients and providers, this study providing valuable and actionable feedback to app developers.
+
 ## Experience
 
 **Elanco Animal Health** \| Global Pharmacovigilance Intern \| May 2025 - August 2025 [`r fontawesome::fa("linkedin", fill="#0A66C2")`](https://www.linkedin.com/posts/yuhsuan-emilie-cheng_elacno-pharmacovigilance-internship-activity-7361818948528431107-k8EP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4yHvQBce3kbanDYOE2r29cZt9rtl489s0)
@@ -43,7 +50,9 @@ D.V.M. \| August 2017 - May 2022
 ## Skills
 
 R (Programming Language), SAS\
+Excel, Power BI, SQL, Redcap\
 Veterinary Medicine, Epidemiology, Statistics, Pharmacovigilance
+
 
 ## Interests and Hobbies
 
