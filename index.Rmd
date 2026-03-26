@@ -56,6 +56,6 @@ Veterinary Medicine, Epidemiology, Statistics, Pharmacovigilance
 
 ## Interests and Hobbies
 
-**Piano** \| I am a lifelong amateur player [`r fontawesome::fa("youtube", fill="#FF0000")`](https://youtu.be/FrOA5rO3lbQ?si=9_Ubfb2VCh-n5Fn5)\
+**Piano** \| A lifelong amateur player [`r fontawesome::fa("youtube", fill="#FF0000")`](https://youtu.be/FrOA5rO3lbQ?si=9_Ubfb2VCh-n5Fn5)\
 **Baking** \| I recently start raising my sourdough starter\
 **Working out** \| My goal is to maintain an every-other-day schedule
